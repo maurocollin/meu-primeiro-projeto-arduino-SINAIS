@@ -1,7 +1,7 @@
 // C++ code
 //
 
-int vermelho01=12;
+int vermelho01=12; 
 int amarelo01=11;
 int verde01=10;
 
@@ -12,12 +12,12 @@ int verde02=7;
   
 void setup()
 {
-  pinMode(12, OUTPUT);
-  pinMode(11, OUTPUT);
-  pinMode(10, OUTPUT);
-  pinMode(7, OUTPUT);
-  pinMode(6, OUTPUT);
-  pinMode(5, OUTPUT);
+  pinMode(12, OUTPUT); // LED Vermelho01
+  pinMode(11, OUTPUT); // LED Amarelo01
+  pinMode(10, OUTPUT); // LED Verde01
+  pinMode(7, OUTPUT); // LED Verde02
+  pinMode(6, OUTPUT); // LED Amarelo02
+  pinMode(5, OUTPUT); // LED Vermelho02
   
 }
 
