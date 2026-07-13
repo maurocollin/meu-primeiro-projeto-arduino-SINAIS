@@ -3,7 +3,7 @@
 Este é o meu primeiro projeto utilizando Arduino, desenvolvido e simulado na plataforma Tinkercad.
 
 ## 📋 Descrição
-Um sistema de semáforo simples que alterna as luzes LED usando temporizadores.
+Este projeto simula o funcionamento de um semáforo de trânsito utilizando três LEDs (Verde, Amarelo e Vermelho) controlados por um Arduino Uno, alternando os estados com base em tempos pré-definidos no código.
 
 ## 🛠️ Componentes Utilizados
 * 1x Arduino Uno R3
@@ -18,4 +18,4 @@ Um sistema de semáforo simples que alterna as luzes LED usando temporizadores.
 
 ## 🔗 Simulação Online
 Você pode visualizar e testar o projeto diretamente no Tinkercad através do link:
-https://www.tinkercad.com/things/7Tu4xYsJncH/editel?returnTo=%2Fdashboard&sharecode=YC_22Lc0UDc3yk1lpLv06z829Fa5S4pUrGFtm1sK2XM
+https://www.tinkercad.com/things/7Tu4xYsJncH-semaforodecruzamento?sharecode=TSsQvMPq2AdBSiw87oB1PYwWesiinJ3OF-qFIALV92k
