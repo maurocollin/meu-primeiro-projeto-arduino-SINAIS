@@ -12,12 +12,10 @@ Um sistema de semáforo simples que alterna as luzes LED usando temporizadores.
 * 2 x Leds Verdes
 * 2 x Leds Amarelos
 * 2 x Leds Vermelhos
-* 
-
 
 ## ⚡ O Circuito
 ![Diagrama do Circuito](./circuito.png)
 
 ## 🔗 Simulação Online
 Você pode visualizar e testar o projeto diretamente no Tinkercad através do link:
-[Cole aqui o link de compartilhamento público do seu Tinkercad]
+https://www.tinkercad.com/things/7Tu4xYsJncH/editel?returnTo=%2Fdashboard&sharecode=YC_22Lc0UDc3yk1lpLv06z829Fa5S4pUrGFtm1sK2XM
